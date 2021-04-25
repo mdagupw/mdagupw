@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdagupw
 - 👀 I’m interested in WordPress
-- 🌱 I’m currently learning WordPress Theme and Plugin Development
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on WordPress Development
 - 📫 How to reach me agus@purwantoro.com
